@@ -8,6 +8,13 @@
       "when": 1752276830697,
       "tag": "0000_lying_cammi",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752348576264,
+      "tag": "0001_wandering_wolfpack",
+      "breakpoints": true
     }
   ]
 }
